@@ -1,0 +1,2 @@
+class IdeasControllerController < ApplicationController
+end
